@@ -1,0 +1,779 @@
+Flag,Short_Name,Full_Name
+1,B01001e1,SEX BY AGE: Total: Total population -- (Estimate)
+1,B01001e2,SEX BY AGE: Male: Total population -- (Estimate)
+1,B01001e3,SEX BY AGE: Male: Under 5 years: Total population -- (Estimate)
+1,B01001e4,SEX BY AGE: Male: 5 to 9 years: Total population -- (Estimate)
+1,B01001e5,SEX BY AGE: Male: 10 to 14 years: Total population -- (Estimate)
+1,B01001e6,SEX BY AGE: Male: 15 to 17 years: Total population -- (Estimate)
+1,B01001e7,SEX BY AGE: Male: 18 and 19 years: Total population -- (Estimate)
+1,B01001e8,SEX BY AGE: Male: 20 years: Total population -- (Estimate)
+1,B01001e9,SEX BY AGE: Male: 21 years: Total population -- (Estimate)
+1,B01001e10,SEX BY AGE: Male: 22 to 24 years: Total population -- (Estimate)
+1,B01001e11,SEX BY AGE: Male: 25 to 29 years: Total population -- (Estimate)
+1,B01001e12,SEX BY AGE: Male: 30 to 34 years: Total population -- (Estimate)
+1,B01001e13,SEX BY AGE: Male: 35 to 39 years: Total population -- (Estimate)
+1,B01001e14,SEX BY AGE: Male: 40 to 44 years: Total population -- (Estimate)
+1,B01001e15,SEX BY AGE: Male: 45 to 49 years: Total population -- (Estimate)
+1,B01001e16,SEX BY AGE: Male: 50 to 54 years: Total population -- (Estimate)
+1,B01001e17,SEX BY AGE: Male: 55 to 59 years: Total population -- (Estimate)
+1,B01001e18,SEX BY AGE: Male: 60 and 61 years: Total population -- (Estimate)
+1,B01001e19,SEX BY AGE: Male: 62 to 64 years: Total population -- (Estimate)
+1,B01001e20,SEX BY AGE: Male: 65 and 66 years: Total population -- (Estimate)
+1,B01001e21,SEX BY AGE: Male: 67 to 69 years: Total population -- (Estimate)
+1,B01001e22,SEX BY AGE: Male: 70 to 74 years: Total population -- (Estimate)
+1,B01001e23,SEX BY AGE: Male: 75 to 79 years: Total population -- (Estimate)
+1,B01001e24,SEX BY AGE: Male: 80 to 84 years: Total population -- (Estimate)
+1,B01001e25,SEX BY AGE: Male: 85 years and over: Total population -- (Estimate)
+1,B01001e26,SEX BY AGE: Female: Total population -- (Estimate)
+1,B01001e27,SEX BY AGE: Female: Under 5 years: Total population -- (Estimate)
+1,B01001e28,SEX BY AGE: Female: 5 to 9 years: Total population -- (Estimate)
+1,B01001e29,SEX BY AGE: Female: 10 to 14 years: Total population -- (Estimate)
+1,B01001e30,SEX BY AGE: Female: 15 to 17 years: Total population -- (Estimate)
+1,B01001e31,SEX BY AGE: Female: 18 and 19 years: Total population -- (Estimate)
+1,B01001e32,SEX BY AGE: Female: 20 years: Total population -- (Estimate)
+1,B01001e33,SEX BY AGE: Female: 21 years: Total population -- (Estimate)
+1,B01001e34,SEX BY AGE: Female: 22 to 24 years: Total population -- (Estimate)
+1,B01001e35,SEX BY AGE: Female: 25 to 29 years: Total population -- (Estimate)
+1,B01001e36,SEX BY AGE: Female: 30 to 34 years: Total population -- (Estimate)
+1,B01001e37,SEX BY AGE: Female: 35 to 39 years: Total population -- (Estimate)
+1,B01001e38,SEX BY AGE: Female: 40 to 44 years: Total population -- (Estimate)
+1,B01001e39,SEX BY AGE: Female: 45 to 49 years: Total population -- (Estimate)
+1,B01001e40,SEX BY AGE: Female: 50 to 54 years: Total population -- (Estimate)
+1,B01001e41,SEX BY AGE: Female: 55 to 59 years: Total population -- (Estimate)
+1,B01001e42,SEX BY AGE: Female: 60 and 61 years: Total population -- (Estimate)
+1,B01001e43,SEX BY AGE: Female: 62 to 64 years: Total population -- (Estimate)
+1,B01001e44,SEX BY AGE: Female: 65 and 66 years: Total population -- (Estimate)
+1,B01001e45,SEX BY AGE: Female: 67 to 69 years: Total population -- (Estimate)
+1,B01001e46,SEX BY AGE: Female: 70 to 74 years: Total population -- (Estimate)
+1,B01001e47,SEX BY AGE: Female: 75 to 79 years: Total population -- (Estimate)
+1,B01001e48,SEX BY AGE: Female: 80 to 84 years: Total population -- (Estimate)
+1,B01001e49,SEX BY AGE: Female: 85 years and over: Total population -- (Estimate)
+1,B01001Ae1,SEX BY AGE (WHITE ALONE): Total: People who are White alone -- (Estimate)
+1,B01001Ae2,SEX BY AGE (WHITE ALONE): Male: People who are White alone -- (Estimate)
+1,B01001Ae3,SEX BY AGE (WHITE ALONE): Male: Under 5 years: People who are White alone -- (Estimate)
+1,B01001Ae4,SEX BY AGE (WHITE ALONE): Male: 5 to 9 years: People who are White alone -- (Estimate)
+1,B01001Ae5,SEX BY AGE (WHITE ALONE): Male: 10 to 14 years: People who are White alone -- (Estimate)
+1,B01001Ae6,SEX BY AGE (WHITE ALONE): Male: 15 to 17 years: People who are White alone -- (Estimate)
+1,B01001Ae7,SEX BY AGE (WHITE ALONE): Male: 18 and 19 years: People who are White alone -- (Estimate)
+1,B01001Ae8,SEX BY AGE (WHITE ALONE): Male: 20 to 24 years: People who are White alone -- (Estimate)
+1,B01001Ae9,SEX BY AGE (WHITE ALONE): Male: 25 to 29 years: People who are White alone -- (Estimate)
+1,B01001Ae10,SEX BY AGE (WHITE ALONE): Male: 30 to 34 years: People who are White alone -- (Estimate)
+1,B01001Ae11,SEX BY AGE (WHITE ALONE): Male: 35 to 44 years: People who are White alone -- (Estimate)
+1,B01001Ae12,SEX BY AGE (WHITE ALONE): Male: 45 to 54 years: People who are White alone -- (Estimate)
+1,B01001Ae13,SEX BY AGE (WHITE ALONE): Male: 55 to 64 years: People who are White alone -- (Estimate)
+1,B01001Ae14,SEX BY AGE (WHITE ALONE): Male: 65 to 74 years: People who are White alone -- (Estimate)
+1,B01001Ae15,SEX BY AGE (WHITE ALONE): Male: 75 to 84 years: People who are White alone -- (Estimate)
+1,B01001Ae16,SEX BY AGE (WHITE ALONE): Male: 85 years and over: People who are White alone -- (Estimate)
+1,B01001Ae17,SEX BY AGE (WHITE ALONE): Female: People who are White alone -- (Estimate)
+1,B01001Ae18,SEX BY AGE (WHITE ALONE): Female: Under 5 years: People who are White alone -- (Estimate)
+1,B01001Ae19,SEX BY AGE (WHITE ALONE): Female: 5 to 9 years: People who are White alone -- (Estimate)
+1,B01001Ae20,SEX BY AGE (WHITE ALONE): Female: 10 to 14 years: People who are White alone -- (Estimate)
+1,B01001Ae21,SEX BY AGE (WHITE ALONE): Female: 15 to 17 years: People who are White alone -- (Estimate)
+1,B01001Ae22,SEX BY AGE (WHITE ALONE): Female: 18 and 19 years: People who are White alone -- (Estimate)
+1,B01001Ae23,SEX BY AGE (WHITE ALONE): Female: 20 to 24 years: People who are White alone -- (Estimate)
+1,B01001Ae24,SEX BY AGE (WHITE ALONE): Female: 25 to 29 years: People who are White alone -- (Estimate)
+1,B01001Ae25,SEX BY AGE (WHITE ALONE): Female: 30 to 34 years: People who are White alone -- (Estimate)
+1,B01001Ae26,SEX BY AGE (WHITE ALONE): Female: 35 to 44 years: People who are White alone -- (Estimate)
+1,B01001Ae27,SEX BY AGE (WHITE ALONE): Female: 45 to 54 years: People who are White alone -- (Estimate)
+1,B01001Ae28,SEX BY AGE (WHITE ALONE): Female: 55 to 64 years: People who are White alone -- (Estimate)
+1,B01001Ae29,SEX BY AGE (WHITE ALONE): Female: 65 to 74 years: People who are White alone -- (Estimate)
+1,B01001Ae30,SEX BY AGE (WHITE ALONE): Female: 75 to 84 years: People who are White alone -- (Estimate)
+1,B01001Ae31,SEX BY AGE (WHITE ALONE): Female: 85 years and over: People who are White alone -- (Estimate)
+1,B01001Be1,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Total: Black or African American alone -- (Estimate)
+1,B01001Be2,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: Black or African American alone -- (Estimate)
+1,B01001Be3,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: Under 5 years: Black or African American alone -- (Estimate)
+1,B01001Be4,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 5 to 9 years: Black or African American alone -- (Estimate)
+1,B01001Be5,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 10 to 14 years: Black or African American alone -- (Estimate)
+1,B01001Be6,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 15 to 17 years: Black or African American alone -- (Estimate)
+1,B01001Be7,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 18 and 19 years: Black or African American alone -- (Estimate)
+1,B01001Be8,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 20 to 24 years: Black or African American alone -- (Estimate)
+1,B01001Be9,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 25 to 29 years: Black or African American alone -- (Estimate)
+1,B01001Be10,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 30 to 34 years: Black or African American alone -- (Estimate)
+1,B01001Be11,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 35 to 44 years: Black or African American alone -- (Estimate)
+1,B01001Be12,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 45 to 54 years: Black or African American alone -- (Estimate)
+1,B01001Be13,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 55 to 64 years: Black or African American alone -- (Estimate)
+1,B01001Be14,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 65 to 74 years: Black or African American alone -- (Estimate)
+1,B01001Be15,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 75 to 84 years: Black or African American alone -- (Estimate)
+1,B01001Be16,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Male: 85 years and over: Black or African American alone -- (Estimate)
+1,B01001Be17,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: Black or African American alone -- (Estimate)
+1,B01001Be18,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: Under 5 years: Black or African American alone -- (Estimate)
+1,B01001Be19,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 5 to 9 years: Black or African American alone -- (Estimate)
+1,B01001Be20,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 10 to 14 years: Black or African American alone -- (Estimate)
+1,B01001Be21,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 15 to 17 years: Black or African American alone -- (Estimate)
+1,B01001Be22,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 18 and 19 years: Black or African American alone -- (Estimate)
+1,B01001Be23,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 20 to 24 years: Black or African American alone -- (Estimate)
+1,B01001Be24,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 25 to 29 years: Black or African American alone -- (Estimate)
+1,B01001Be25,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 30 to 34 years: Black or African American alone -- (Estimate)
+1,B01001Be26,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 35 to 44 years: Black or African American alone -- (Estimate)
+1,B01001Be27,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 45 to 54 years: Black or African American alone -- (Estimate)
+1,B01001Be28,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 55 to 64 years: Black or African American alone -- (Estimate)
+1,B01001Be29,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 65 to 74 years: Black or African American alone -- (Estimate)
+1,B01001Be30,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 75 to 84 years: Black or African American alone -- (Estimate)
+1,B01001Be31,SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Female: 85 years and over: Black or African American alone -- (Estimate)
+1,B01001He1,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Total: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He2,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He3,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Under 5 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He4,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 5 to 9 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He5,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 10 to 14 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He6,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 15 to 17 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He7,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 18 and 19 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He8,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 20 to 24 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He9,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 25 to 29 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He10,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 30 to 34 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He11,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 35 to 44 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He12,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 45 to 54 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He13,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 55 to 64 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He14,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 65 to 74 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He15,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 75 to 84 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He16,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Male: 85 years and over: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He17,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He18,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Under 5 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He19,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 5 to 9 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He20,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 10 to 14 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He21,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 15 to 17 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He22,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 18 and 19 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He23,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 20 to 24 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He24,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 25 to 29 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He25,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 30 to 34 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He26,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 35 to 44 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He27,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 45 to 54 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He28,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 55 to 64 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He29,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 65 to 74 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He30,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 75 to 84 years: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001He31,"SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Female: 85 years and over: White alone, not Hispanic or Latino population -- (Estimate)"
+1,B01001Ie1,SEX BY AGE (HISPANIC OR LATINO): Total: Hispanic or Latino population -- (Estimate)
+1,B01001Ie2,SEX BY AGE (HISPANIC OR LATINO): Male: Hispanic or Latino population -- (Estimate)
+1,B01001Ie3,SEX BY AGE (HISPANIC OR LATINO): Male: Under 5 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie4,SEX BY AGE (HISPANIC OR LATINO): Male: 5 to 9 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie5,SEX BY AGE (HISPANIC OR LATINO): Male: 10 to 14 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie6,SEX BY AGE (HISPANIC OR LATINO): Male: 15 to 17 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie7,SEX BY AGE (HISPANIC OR LATINO): Male: 18 and 19 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie8,SEX BY AGE (HISPANIC OR LATINO): Male: 20 to 24 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie9,SEX BY AGE (HISPANIC OR LATINO): Male: 25 to 29 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie10,SEX BY AGE (HISPANIC OR LATINO): Male: 30 to 34 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie11,SEX BY AGE (HISPANIC OR LATINO): Male: 35 to 44 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie12,SEX BY AGE (HISPANIC OR LATINO): Male: 45 to 54 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie13,SEX BY AGE (HISPANIC OR LATINO): Male: 55 to 64 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie14,SEX BY AGE (HISPANIC OR LATINO): Male: 65 to 74 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie15,SEX BY AGE (HISPANIC OR LATINO): Male: 75 to 84 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie16,SEX BY AGE (HISPANIC OR LATINO): Male: 85 years and over: Hispanic or Latino population -- (Estimate)
+1,B01001Ie17,SEX BY AGE (HISPANIC OR LATINO): Female: Hispanic or Latino population -- (Estimate)
+1,B01001Ie18,SEX BY AGE (HISPANIC OR LATINO): Female: Under 5 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie19,SEX BY AGE (HISPANIC OR LATINO): Female: 5 to 9 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie20,SEX BY AGE (HISPANIC OR LATINO): Female: 10 to 14 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie21,SEX BY AGE (HISPANIC OR LATINO): Female: 15 to 17 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie22,SEX BY AGE (HISPANIC OR LATINO): Female: 18 and 19 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie23,SEX BY AGE (HISPANIC OR LATINO): Female: 20 to 24 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie24,SEX BY AGE (HISPANIC OR LATINO): Female: 25 to 29 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie25,SEX BY AGE (HISPANIC OR LATINO): Female: 30 to 34 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie26,SEX BY AGE (HISPANIC OR LATINO): Female: 35 to 44 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie27,SEX BY AGE (HISPANIC OR LATINO): Female: 45 to 54 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie28,SEX BY AGE (HISPANIC OR LATINO): Female: 55 to 64 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie29,SEX BY AGE (HISPANIC OR LATINO): Female: 65 to 74 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie30,SEX BY AGE (HISPANIC OR LATINO): Female: 75 to 84 years: Hispanic or Latino population -- (Estimate)
+1,B01001Ie31,SEX BY AGE (HISPANIC OR LATINO): Female: 85 years and over: Hispanic or Latino population -- (Estimate)
+1,B02001e1,RACE: Total: Total population -- (Estimate)
+1,B02001e2,RACE: Total: White alone: Total population -- (Estimate)
+1,B02001e3,RACE: Total: Black or African American alone: Total population -- (Estimate)
+1,B02001e4,RACE: Total: American Indian and Alaska Native alone: Total population -- (Estimate)
+1,B02001e5,RACE: Total: Asian alone: Total population -- (Estimate)
+1,B02001e6,RACE: Total: Native Hawaiian and Other Pacific Islander alone: Total population -- (Estimate)
+1,B02001e7,RACE: Total: Some other race alone: Total population -- (Estimate)
+1,B02001e8,RACE: Two or more races: Total population -- (Estimate)
+1,B03001e1,HISPANIC OR LATINO ORIGIN BY SPECIFIC ORIGIN: Total: Total population -- (Estimate)
+1,B03001e2,HISPANIC OR LATINO ORIGIN BY SPECIFIC ORIGIN: Total: Not Hispanic or Latino: Total population -- (Estimate)
+1,B03001e3,HISPANIC OR LATINO ORIGIN BY SPECIFIC ORIGIN: Hispanic or Latino: Total population -- (Estimate)
+1,B07003e1,GEOGRAPHICAL MOBILITY IN THE PAST YEAR BY SEX FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Population 1 year and over in the United States -- (Estimate)
+1,B07003e4,GEOGRAPHICAL MOBILITY IN THE PAST YEAR BY SEX FOR CURRENT RESIDENCE IN THE UNITED STATES: Same house 1 year ago: Population 1 year and over in the United States -- (Estimate)
+1,B07003e7,GEOGRAPHICAL MOBILITY IN THE PAST YEAR BY SEX FOR CURRENT RESIDENCE IN THE UNITED STATES: Moved within same county: Population 1 year and over in the United States -- (Estimate)
+1,B07003e10,GEOGRAPHICAL MOBILITY IN THE PAST YEAR BY SEX FOR CURRENT RESIDENCE IN THE UNITED STATES: Moved from different county within same state: Population 1 year and over in the United States -- (Estimate)
+1,B07003e13,GEOGRAPHICAL MOBILITY IN THE PAST YEAR BY SEX FOR CURRENT RESIDENCE IN THE UNITED STATES: Moved from different state: Population 1 year and over in the United States -- (Estimate)
+1,B07003e16,GEOGRAPHICAL MOBILITY IN THE PAST YEAR BY SEX FOR CURRENT RESIDENCE IN THE UNITED STATES: Moved from abroad: Population 1 year and over in the United States -- (Estimate)
+1,B07004Ae1,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: White alone population 1 year and over in the United States -- (Estimate)
+1,B07004Ae2,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Same house 1 year ago: White alone population 1 year and over in the United States -- (Estimate)
+1,B07004Ae3,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved within same county: White alone population 1 year and over in the United States -- (Estimate)
+1,B07004Ae4,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different county within same state: White alone population 1 year and over in the United States -- (Estimate)
+1,B07004Ae5,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different state: White alone population 1 year and over in the United States -- (Estimate)
+1,B07004Ae6,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from abroad: White alone population 1 year and over in the United States -- (Estimate)
+1,B07004Be1,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (BLACK OR AFRICAN AMERICAN ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Black or African American alone population 1 year and over in the United States -- (Estimate)
+1,B07004Be2,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (BLACK OR AFRICAN AMERICAN ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Same house 1 year ago: Black or African American alone population 1 year and over in the United States -- (Estimate)
+1,B07004Be3,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (BLACK OR AFRICAN AMERICAN ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved within same county: Black or African American alone population 1 year and over in the United States -- (Estimate)
+1,B07004Be4,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (BLACK OR AFRICAN AMERICAN ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different county within same state: Black or African American alone population 1 year and over in the United States -- (Estimate)
+1,B07004Be5,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (BLACK OR AFRICAN AMERICAN ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different state: Black or African American alone population 1 year and over in the United States -- (Estimate)
+1,B07004Be6,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (BLACK OR AFRICAN AMERICAN ALONE) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from abroad: Black or African American alone population 1 year and over in the United States -- (Estimate)
+1,B07004He1,"GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE, NOT HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: White alone, not Hispanic or Latino population 1 year and over in the United States -- (Estimate)"
+1,B07004He2,"GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE, NOT HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Same house 1 year ago: White alone, not Hispanic or Latino population 1 year and over in the United States -- (Estimate)"
+1,B07004He3,"GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE, NOT HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved within same county: White alone, not Hispanic or Latino population 1 year and over in the United States -- (Estimate)"
+1,B07004He4,"GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE, NOT HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different county within same state: White alone, not Hispanic or Latino population 1 year and over in the United States -- (Estimate)"
+1,B07004He5,"GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE, NOT HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different state: White alone, not Hispanic or Latino population 1 year and over in the United States -- (Estimate)"
+1,B07004He6,"GEOGRAPHICAL MOBILITY IN THE PAST YEAR (WHITE ALONE, NOT HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from abroad: White alone, not Hispanic or Latino population 1 year and over in the United States -- (Estimate)"
+1,B07004Ie1,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Hispanic or Latino population 1 year and over in the United States -- (Estimate)
+1,B07004Ie2,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Same house 1 year ago: Hispanic or Latino population 1 year and over in the United States -- (Estimate)
+1,B07004Ie3,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved within same county: Hispanic or Latino population 1 year and over in the United States -- (Estimate)
+1,B07004Ie4,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different county within same state: Hispanic or Latino population 1 year and over in the United States -- (Estimate)
+1,B07004Ie5,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from different state: Hispanic or Latino population 1 year and over in the United States -- (Estimate)
+1,B07004Ie6,GEOGRAPHICAL MOBILITY IN THE PAST YEAR (HISPANIC OR LATINO) FOR CURRENT RESIDENCE IN THE UNITED STATES: Total: Moved from abroad: Hispanic or Latino population 1 year and over in the United States -- (Estimate)
+1,B08101e9,"MEANS OF TRANSPORTATION TO WORK BY AGE: Car, truck, or van - drove alone: Workers 16 years and over -- (Estimate)"
+1,B08101e17,"MEANS OF TRANSPORTATION TO WORK BY AGE: Car, truck, or van - carpooled: Workers 16 years and over -- (Estimate)"
+1,B08101e25,MEANS OF TRANSPORTATION TO WORK BY AGE: Public transportation (excluding taxicab): Workers 16 years and over -- (Estimate)
+1,B08101e33,MEANS OF TRANSPORTATION TO WORK BY AGE: Walked: Workers 16 years and over -- (Estimate)
+1,B08101e41,"MEANS OF TRANSPORTATION TO WORK BY AGE: Taxicab, motorcycle, bicycle, or other means: Workers 16 years and over -- (Estimate)"
+1,B08101e49,"MEANS OF TRANSPORTATION TO WORK BY AGE: Taxicab, motorcycle, bicycle, or other means: Worked from home: Workers 16 years and over -- (Estimate)"
+1,B08105Ae1,MEANS OF TRANSPORTATION TO WORK (WHITE ALONE): Total: White alone workers 16 years and over -- (Estimate)
+1,B08105Ae2,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE): Total: Car, truck, or van - drove alone: White alone workers 16 years and over -- (Estimate)"
+1,B08105Ae3,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE): Total: Car, truck, or van - carpooled: White alone workers 16 years and over -- (Estimate)"
+1,B08105Ae4,MEANS OF TRANSPORTATION TO WORK (WHITE ALONE): Total: Public transportation (excluding taxicab): White alone workers 16 years and over -- (Estimate)
+1,B08105Ae5,MEANS OF TRANSPORTATION TO WORK (WHITE ALONE): Total: Walked: White alone workers 16 years and over -- (Estimate)
+1,B08105Ae6,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE): Total: Taxicab, motorcycle, bicycle, or other means: White alone workers 16 years and over -- (Estimate)"
+1,B08105Ae7,MEANS OF TRANSPORTATION TO WORK (WHITE ALONE): Total: Worked from home: White alone workers 16 years and over -- (Estimate)
+1,B08105Be1,MEANS OF TRANSPORTATION TO WORK (BLACK OR AFRICAN AMERICAN ALONE): Total: Black or African American alone workers 16 years and over -- (Estimate)
+1,B08105Be2,"MEANS OF TRANSPORTATION TO WORK (BLACK OR AFRICAN AMERICAN ALONE): Total: Car, truck, or van - drove alone: Black or African American alone workers 16 years and over -- (Estimate)"
+1,B08105Be3,"MEANS OF TRANSPORTATION TO WORK (BLACK OR AFRICAN AMERICAN ALONE): Total: Car, truck, or van - carpooled: Black or African American alone workers 16 years and over -- (Estimate)"
+1,B08105Be4,MEANS OF TRANSPORTATION TO WORK (BLACK OR AFRICAN AMERICAN ALONE): Total: Public transportation (excluding taxicab): Black or African American alone workers 16 years and over -- (Estimate)
+1,B08105Be5,MEANS OF TRANSPORTATION TO WORK (BLACK OR AFRICAN AMERICAN ALONE): Total: Walked: Black or African American alone workers 16 years and over -- (Estimate)
+1,B08105Be6,"MEANS OF TRANSPORTATION TO WORK (BLACK OR AFRICAN AMERICAN ALONE): Total: Taxicab, motorcycle, bicycle, or other means: Black or African American alone workers 16 years and over -- (Estimate)"
+1,B08105Be7,MEANS OF TRANSPORTATION TO WORK (BLACK OR AFRICAN AMERICAN ALONE): Total: Worked from home: Black or African American alone workers 16 years and over -- (Estimate)
+1,B08105He1,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE, NOT HISPANIC OR LATINO): Total: White alone, not Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105He2,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Car, truck, or van - drove alone: White alone, not Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105He3,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Car, truck, or van - carpooled: White alone, not Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105He4,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Public transportation (excluding taxicab): White alone, not Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105He5,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Walked: White alone, not Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105He6,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Taxicab, motorcycle, bicycle, or other means: White alone, not Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105He7,"MEANS OF TRANSPORTATION TO WORK (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Worked from home: White alone, not Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105Ie1,MEANS OF TRANSPORTATION TO WORK (HISPANIC OR LATINO): Total: Hispanic or Latino workers 16 years and over -- (Estimate)
+1,B08105Ie2,"MEANS OF TRANSPORTATION TO WORK (HISPANIC OR LATINO): Total: Car, truck, or van - drove alone: Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105Ie3,"MEANS OF TRANSPORTATION TO WORK (HISPANIC OR LATINO): Total: Car, truck, or van - carpooled: Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105Ie4,MEANS OF TRANSPORTATION TO WORK (HISPANIC OR LATINO): Total: Public transportation (excluding taxicab): Hispanic or Latino workers 16 years and over -- (Estimate)
+1,B08105Ie5,MEANS OF TRANSPORTATION TO WORK (HISPANIC OR LATINO): Total: Walked: Hispanic or Latino workers 16 years and over -- (Estimate)
+1,B08105Ie6,"MEANS OF TRANSPORTATION TO WORK (HISPANIC OR LATINO): Total: Taxicab, motorcycle, bicycle, or other means: Hispanic or Latino workers 16 years and over -- (Estimate)"
+1,B08105Ie7,MEANS OF TRANSPORTATION TO WORK (HISPANIC OR LATINO): Total: Worked from home: Hispanic or Latino workers 16 years and over -- (Estimate)
+1,B11001e1,HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Total: Households -- (Estimate)
+1,B11001e2,HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Family households: Households -- (Estimate)
+1,B11001e3,HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Family households: Married-couple family: Households -- (Estimate)
+1,B11001e4,HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Other family: Households -- (Estimate)
+1,B11001e5,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Other family: Male householder, no spouse present: Households -- (Estimate)"
+1,B11001e6,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Other family: Female householder, no spouse present: Households -- (Estimate)"
+1,B11001e7,HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Nonfamily households: Households -- (Estimate)
+1,B11001e8,HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Nonfamily households: Householder living alone: Households -- (Estimate)
+1,B11001e9,HOUSEHOLD TYPE (INCLUDING LIVING ALONE): Nonfamily households: Householder not living alone: Households -- (Estimate)
+1,B11001Ae1,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Total: Households with a householder who is White alone -- (Estimate)
+1,B11001Ae2,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Family households: Households with a householder who is White alone -- (Estimate)
+1,B11001Ae3,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Family households: Married-couple family: Households with a householder who is White alone -- (Estimate)
+1,B11001Ae4,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Other family: Households with a householder who is White alone -- (Estimate)
+1,B11001Ae5,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Other family: Male householder, no spouse present: Households with a householder who is White alone -- (Estimate)"
+1,B11001Ae6,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Other family: Female householder, no spouse present: Households with a householder who is White alone -- (Estimate)"
+1,B11001Ae7,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Nonfamily households: Households with a householder who is White alone -- (Estimate)
+1,B11001Ae8,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Nonfamily households: Householder living alone: Households with a householder who is White alone -- (Estimate)
+1,B11001Ae9,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE): Nonfamily households: Householder not living alone: Households with a householder who is White alone -- (Estimate)
+1,B11001Be1,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Total: Households with a householder who is Black or African American alone -- (Estimate)
+1,B11001Be2,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Family households: Households with a householder who is Black or African American alone -- (Estimate)
+1,B11001Be3,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Family households: Married-couple family: Households with a householder who is Black or African American alone -- (Estimate)
+1,B11001Be4,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Other family: Households with a householder who is Black or African American alone -- (Estimate)
+1,B11001Be5,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Other family: Male householder, no spouse present: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B11001Be6,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Other family: Female householder, no spouse present: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B11001Be7,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Nonfamily households: Households with a householder who is Black or African American alone -- (Estimate)
+1,B11001Be8,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Nonfamily households: Householder living alone: Households with a householder who is Black or African American alone -- (Estimate)
+1,B11001Be9,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (BLACK OR AFRICAN AMERICAN ALONE): Nonfamily households: Householder not living alone: Households with a householder who is Black or African American alone -- (Estimate)
+1,B11001He1,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He2,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Family households: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He3,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Family households: Married-couple family: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He4,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Other family: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He5,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Other family: Male householder, no spouse present: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He6,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Other family: Female householder, no spouse present: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He7,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Nonfamily households: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He8,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Nonfamily households: Householder living alone: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001He9,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (WHITE ALONE, NOT HISPANIC OR LATINO): Nonfamily households: Householder not living alone: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B11001Ie1,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Total: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B11001Ie2,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Family households: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B11001Ie3,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Family households: Married-couple family: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B11001Ie4,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Other family: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B11001Ie5,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Other family: Male householder, no spouse present: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B11001Ie6,"HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Other family: Female householder, no spouse present: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B11001Ie7,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Nonfamily households: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B11001Ie8,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Nonfamily households: Householder living alone: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B11001Ie9,HOUSEHOLD TYPE (INCLUDING LIVING ALONE) (HISPANIC OR LATINO): Nonfamily households: Householder not living alone: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B15003e1,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Population 25 years and over -- (Estimate)
+1,B15003e2,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: No schooling completed: Population 25 years and over -- (Estimate)
+1,B15003e3,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Nursery school: Population 25 years and over -- (Estimate)
+1,B15003e4,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Kindergarten: Population 25 years and over -- (Estimate)
+1,B15003e5,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 1st grade: Population 25 years and over -- (Estimate)
+1,B15003e6,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 2nd grade: Population 25 years and over -- (Estimate)
+1,B15003e7,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 3rd grade: Population 25 years and over -- (Estimate)
+1,B15003e8,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 4th grade: Population 25 years and over -- (Estimate)
+1,B15003e9,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 5th grade: Population 25 years and over -- (Estimate)
+1,B15003e10,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 6th grade: Population 25 years and over -- (Estimate)
+1,B15003e11,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 7th grade: Population 25 years and over -- (Estimate)
+1,B15003e12,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 8th grade: Population 25 years and over -- (Estimate)
+1,B15003e13,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 9th grade: Population 25 years and over -- (Estimate)
+1,B15003e14,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 10th grade: Population 25 years and over -- (Estimate)
+1,B15003e15,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 11th grade: Population 25 years and over -- (Estimate)
+1,B15003e16,"EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: 12th grade, no diploma: Population 25 years and over -- (Estimate)"
+1,B15003e17,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Regular high school diploma: Population 25 years and over -- (Estimate)
+1,B15003e18,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: GED or alternative credential: Population 25 years and over -- (Estimate)
+1,B15003e19,"EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Some college, less than 1 year: Population 25 years and over -- (Estimate)"
+1,B15003e20,"EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Some college, 1 or more years, no degree: Population 25 years and over -- (Estimate)"
+1,B15003e21,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Associate's degree: Population 25 years and over -- (Estimate)
+1,B15003e22,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Bachelor's degree: Population 25 years and over -- (Estimate)
+1,B15003e23,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Master's degree: Population 25 years and over -- (Estimate)
+1,B15003e24,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Professional school degree: Population 25 years and over -- (Estimate)
+1,B15003e25,EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER: Total: Doctorate degree: Population 25 years and over -- (Estimate)
+1,C15002Ae1,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Total: White alone population 25 years and over -- (Estimate)
+1,C15002Ae2,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Male: White alone population 25 years and over -- (Estimate)
+1,C15002Ae3,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Male: Less than high school diploma: White alone population 25 years and over -- (Estimate)
+1,C15002Ae4,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Male: High school graduate (includes equivalency): White alone population 25 years and over -- (Estimate)
+1,C15002Ae5,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Male: Some college or associate's degree: White alone population 25 years and over -- (Estimate)
+1,C15002Ae6,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Male: Bachelor's degree or higher: White alone population 25 years and over -- (Estimate)
+1,C15002Ae7,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Female: White alone population 25 years and over -- (Estimate)
+1,C15002Ae8,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Female: Less than high school diploma: White alone population 25 years and over -- (Estimate)
+1,C15002Ae9,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Female: High school graduate (includes equivalency): White alone population 25 years and over -- (Estimate)
+1,C15002Ae10,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Female: Some college or associate's degree: White alone population 25 years and over -- (Estimate)
+1,C15002Ae11,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE): Female: Bachelor's degree or higher: White alone population 25 years and over -- (Estimate)
+1,C15002Be1,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Total: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be2,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be3,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Less than high school diploma: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be4,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: High school graduate (includes equivalency): Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be5,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Some college or associate's degree: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be6,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Bachelor's degree or higher: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be7,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be8,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Less than high school diploma: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be9,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: High school graduate (includes equivalency): Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be10,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Some college or associate's degree: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002Be11,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Bachelor's degree or higher: Black or African American alone population 25 years and over -- (Estimate)
+1,C15002He1,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Total: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He2,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He3,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Less than high school diploma: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He4,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: High school graduate (includes equivalency): White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He5,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Some college or associate's degree: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He6,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Bachelor's degree or higher: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He7,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He8,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Less than high school diploma: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He9,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: High school graduate (includes equivalency): White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He10,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Some college or associate's degree: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002He11,"SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Bachelor's degree or higher: White alone, not Hispanic or Latino population 25 years and over -- (Estimate)"
+1,C15002Ie1,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Total: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie2,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Male: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie3,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Male: Less than high school diploma: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie4,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Male: High school graduate (includes equivalency): Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie5,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Male: Some college or associate's degree: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie6,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Male: Bachelor's degree or higher: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie7,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Female: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie8,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Female: Less than high school diploma: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie9,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Female: High school graduate (includes equivalency): Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie10,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Female: Some college or associate's degree: Hispanic or Latino population 25 years and over -- (Estimate)
+1,C15002Ie11,SEX BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER (HISPANIC OR LATINO): Female: Bachelor's degree or higher: Hispanic or Latino population 25 years and over -- (Estimate)
+1,B16005e1,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Total: Population 5 years and over -- (Estimate)
+1,B16005e2,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Native: Population 5 years and over -- (Estimate)
+1,B16005e3,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Native: Speak only English: Population 5 years and over -- (Estimate)
+1,B16005e4,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Population 5 years and over -- (Estimate)
+1,B16005e5,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e6,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e7,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e8,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005e9,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Population 5 years and over -- (Estimate)
+1,B16005e10,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e11,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e12,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e13,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005e14,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Population 5 years and over -- (Estimate)
+1,B16005e15,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e16,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e17,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e18,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005e19,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Population 5 years and over -- (Estimate)
+1,B16005e20,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e21,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e22,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e23,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005e24,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Foreign born: Population 5 years and over -- (Estimate)
+1,B16005e25,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Foreign born: Speak only English: Population 5 years and over -- (Estimate)
+1,B16005e26,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Population 5 years and over -- (Estimate)
+1,B16005e27,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e28,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e29,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e30,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Spanish: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005e31,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Population 5 years and over -- (Estimate)
+1,B16005e32,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e33,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e34,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e35,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other Indo-European languages: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005e36,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Population 5 years and over -- (Estimate)
+1,B16005e37,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e38,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e39,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e40,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak Asian and Pacific Island languages: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005e41,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Population 5 years and over -- (Estimate)
+1,B16005e42,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""very well"": Population 5 years and over -- (Estimate)"
+1,B16005e43,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""well"": Population 5 years and over -- (Estimate)"
+1,B16005e44,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""not well"": Population 5 years and over -- (Estimate)"
+1,B16005e45,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER: Speak other languages: Speak English ""not at all"": Population 5 years and over -- (Estimate)"
+1,B16005Ae1,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Total: White alone population 5 years and over -- (Estimate)
+1,B16005Ae2,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Native: White alone population 5 years and over -- (Estimate)
+1,B16005Ae3,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Native: Speak only English: White alone population 5 years and over -- (Estimate)
+1,B16005Ae4,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Speak another language: White alone population 5 years and over -- (Estimate)
+1,B16005Ae5,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Speak another language: Speak English ""very well"": White alone population 5 years and over -- (Estimate)"
+1,B16005Ae6,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Speak another language: Speak English less than ""very well"": White alone population 5 years and over -- (Estimate)"
+1,B16005Ae7,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Foreign born: White alone population 5 years and over -- (Estimate)
+1,B16005Ae8,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Foreign born: Speak only English: White alone population 5 years and over -- (Estimate)
+1,B16005Ae9,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Speak another language: White alone population 5 years and over -- (Estimate)
+1,B16005Ae10,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Speak another language: Speak English ""very well"": White alone population 5 years and over -- (Estimate)"
+1,B16005Ae11,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE): Speak another language: Speak English less than ""very well"": White alone population 5 years and over -- (Estimate)"
+1,B16005Be1,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Total: Black or African American alone population 5 years and over -- (Estimate)
+1,B16005Be2,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Native: Black or African American alone population 5 years and over -- (Estimate)
+1,B16005Be3,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Native: Speak only English: Black or African American alone population 5 years and over -- (Estimate)
+1,B16005Be4,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Speak another language: Black or African American alone population 5 years and over -- (Estimate)
+1,B16005Be5,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Speak another language: Speak English ""very well"": Black or African American alone population 5 years and over -- (Estimate)"
+1,B16005Be6,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Speak another language: Speak English less than ""very well"": Black or African American alone population 5 years and over -- (Estimate)"
+1,B16005Be7,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Foreign born: Black or African American alone population 5 years and over -- (Estimate)
+1,B16005Be8,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Foreign born: Speak only English: Black or African American alone population 5 years and over -- (Estimate)
+1,B16005Be9,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Speak another language: Black or African American alone population 5 years and over -- (Estimate)
+1,B16005Be10,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Speak another language: Speak English ""very well"": Black or African American alone population 5 years and over -- (Estimate)"
+1,B16005Be11,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Speak another language: Speak English less than ""very well"": Black or African American alone population 5 years and over -- (Estimate)"
+1,B16005He1,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Total: White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He2,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Native: White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He3,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Native: Speak only English: White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He4,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Speak another language: White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He5,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Speak another language: Speak English ""very well"": White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He6,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Speak another language: Speak English less than ""very well"": White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He7,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Foreign born: White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He8,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Foreign born: Speak only English: White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He9,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Speak another language: White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He10,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Speak another language: Speak English ""very well"": White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005He11,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Speak another language: Speak English less than ""very well"": White alone, not Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005Ie1,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Total: Hispanic or Latino population 5 years and over -- (Estimate)
+1,B16005Ie2,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Native: Hispanic or Latino population 5 years and over -- (Estimate)
+1,B16005Ie3,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Native: Speak only English: Hispanic or Latino population 5 years and over -- (Estimate)
+1,B16005Ie4,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Speak another language: Hispanic or Latino population 5 years and over -- (Estimate)
+1,B16005Ie5,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Speak another language: Speak English ""very well"": Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005Ie6,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Speak another language: Speak English less than ""very well"": Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005Ie7,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Foreign born: Hispanic or Latino population 5 years and over -- (Estimate)
+1,B16005Ie8,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Foreign born: Speak only English: Hispanic or Latino population 5 years and over -- (Estimate)
+1,B16005Ie9,NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Speak another language: Hispanic or Latino population 5 years and over -- (Estimate)
+1,B16005Ie10,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Speak another language: Speak English ""very well"": Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B16005Ie11,"NATIVITY BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER (HISPANIC OR LATINO): Speak another language: Speak English less than ""very well"": Hispanic or Latino population 5 years and over -- (Estimate)"
+1,B17001e1,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE: Total: Population for whom poverty status is determined -- (Estimate)
+1,B17001e2,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE: Income in the past 12 months below poverty level: Population for whom poverty status is determined -- (Estimate)
+1,B17001e31,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE: Income in the past 12 months at or above poverty level: Population for whom poverty status is determined -- (Estimate)
+1,B17001Ae1,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (WHITE ALONE): Total: White alone population for whom poverty status is determined -- (Estimate)
+1,B17001Ae2,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (WHITE ALONE): Income in the past 12 months below poverty level: White alone population for whom poverty status is determined -- (Estimate)
+1,B17001Ae31,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (WHITE ALONE): Income in the past 12 months at or above poverty level: White alone population for whom poverty status is determined -- (Estimate)
+1,B17001Be1,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Total: Black or African American alone population for whom poverty status is determined -- (Estimate)
+1,B17001Be2,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Income in the past 12 months below poverty level: Black or African American alone population for whom poverty status is determined -- (Estimate)
+1,B17001Be31,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE): Income in the past 12 months at or above poverty level: Black or African American alone population for whom poverty status is determined -- (Estimate)
+1,B17001Ge31,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (TWO OR MORE RACES): Income in the past 12 months at or above poverty level: Two or more races population for whom poverty status is determined -- (Estimate)
+1,B17001He1,"POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Total: White alone, not Hispanic or Latino population for whom poverty status is determined -- (Estimate)"
+1,B17001He2,"POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Income in the past 12 months below poverty level: White alone, not Hispanic or Latino population for whom poverty status is determined -- (Estimate)"
+1,B17001He31,"POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO): Income in the past 12 months at or above poverty level: White alone, not Hispanic or Latino population for whom poverty status is determined -- (Estimate)"
+1,B17001Ie1,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (HISPANIC OR LATINO): Total: Hispanic or Latino population for whom poverty status is determined -- (Estimate)
+1,B17001Ie2,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (HISPANIC OR LATINO): Income in the past 12 months below poverty level: Hispanic or Latino population for whom poverty status is determined -- (Estimate)
+1,B17001Ie31,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (HISPANIC OR LATINO): Income in the past 12 months at or above poverty level: Hispanic or Latino population for whom poverty status is determined -- (Estimate)
+1,B19001e1,HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: Households -- (Estimate)
+1,B19001e2,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: Less than $10,000: Households -- (Estimate)"
+1,B19001e3,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $10,000 to $14,999: Households -- (Estimate)"
+1,B19001e4,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $15,000 to $19,999: Households -- (Estimate)"
+1,B19001e5,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $20,000 to $24,999: Households -- (Estimate)"
+1,B19001e6,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $25,000 to $29,999: Households -- (Estimate)"
+1,B19001e7,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $30,000 to $34,999: Households -- (Estimate)"
+1,B19001e8,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $35,000 to $39,999: Households -- (Estimate)"
+1,B19001e9,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $40,000 to $44,999: Households -- (Estimate)"
+1,B19001e10,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $45,000 to $49,999: Households -- (Estimate)"
+1,B19001e11,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $50,000 to $59,999: Households -- (Estimate)"
+1,B19001e12,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $60,000 to $74,999: Households -- (Estimate)"
+1,B19001e13,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $75,000 to $99,999: Households -- (Estimate)"
+1,B19001e14,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $100,000 to $124,999: Households -- (Estimate)"
+1,B19001e15,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $125,000 to $149,999: Households -- (Estimate)"
+1,B19001e16,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $150,000 to $199,999: Households -- (Estimate)"
+1,B19001e17,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS): Total: $200,000 or more: Households -- (Estimate)"
+1,B19001Ae1,HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: Households with a householder who is White alone -- (Estimate)
+1,B19001Ae2,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: Less than $10,000: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae3,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $10,000 to $14,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae4,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $15,000 to $19,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae5,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $20,000 to $24,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae6,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $25,000 to $29,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae7,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $30,000 to $34,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae8,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $35,000 to $39,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae9,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $40,000 to $44,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae10,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $45,000 to $49,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae11,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $50,000 to $59,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae12,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $60,000 to $74,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae13,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $75,000 to $99,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae14,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $100,000 to $124,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae15,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $125,000 to $149,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae16,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $150,000 to $199,999: Households with a householder who is White alone -- (Estimate)"
+1,B19001Ae17,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE HOUSEHOLDER): Total: $200,000 or more: Households with a householder who is White alone -- (Estimate)"
+1,B19001Be1,HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Households with a householder who is Black or African American alone -- (Estimate)
+1,B19001Be2,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Less than $10,000: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be3,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $10,000 to $14,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be4,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $15,000 to $19,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be5,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $20,000 to $24,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be6,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $25,000 to $29,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be7,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $30,000 to $34,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be8,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $35,000 to $39,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be9,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $40,000 to $44,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be10,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $45,000 to $49,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be11,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $50,000 to $59,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be12,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $60,000 to $74,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be13,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $75,000 to $99,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be14,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $100,000 to $124,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be15,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $125,000 to $149,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be16,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $150,000 to $199,999: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001Be17,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: $200,000 or more: Households with a householder who is Black or African American alone -- (Estimate)"
+1,B19001He1,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He2,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Less than $10,000: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He3,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $10,000 to $14,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He4,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $15,000 to $19,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He5,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $20,000 to $24,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He6,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $25,000 to $29,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He7,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $30,000 to $34,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He8,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $35,000 to $39,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He9,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $40,000 to $44,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He10,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $45,000 to $49,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He11,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $50,000 to $59,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He12,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $60,000 to $74,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He13,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $75,000 to $99,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He14,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $100,000 to $124,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He15,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $125,000 to $149,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He16,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $150,000 to $199,999: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001He17,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: $200,000 or more: Households with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B19001Ie1,HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: Households with a householder who is Hispanic or Latino -- (Estimate)
+1,B19001Ie2,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: Less than $10,000: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie3,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $10,000 to $14,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie4,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $15,000 to $19,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie5,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $20,000 to $24,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie6,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $25,000 to $29,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie7,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $30,000 to $34,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie8,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $35,000 to $39,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie9,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $40,000 to $44,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie10,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $45,000 to $49,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie11,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $50,000 to $59,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie12,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $60,000 to $74,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie13,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $75,000 to $99,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie14,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $100,000 to $124,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie15,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $125,000 to $149,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie16,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $150,000 to $199,999: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,B19001Ie17,"HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS) (HISPANIC OR LATINO HOUSEHOLDER): Total: $200,000 or more: Households with a householder who is Hispanic or Latino -- (Estimate)"
+1,C24010Ae1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Total: Civilian employed White alone population 16 years and over -- (Estimate)
+1,C24010Ae2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Male: Civilian employed White alone population 16 years and over -- (Estimate)
+1,C24010Ae3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Male: Management, business, science, and arts occupations: Civilian employed White alone population 16 years and over -- (Estimate)"
+1,C24010Ae4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Male: Service occupations: Civilian employed White alone population 16 years and over -- (Estimate)
+1,C24010Ae5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Male: Sales and office occupations: Civilian employed White alone population 16 years and over -- (Estimate)
+1,C24010Ae6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Male: Natural resources, construction, and maintenance occupations: Civilian employed White alone population 16 years and over -- (Estimate)"
+1,C24010Ae7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Male: Production, transportation, and material moving occupations: Civilian employed White alone population 16 years and over -- (Estimate)"
+1,C24010Ae8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Female: Civilian employed White alone population 16 years and over -- (Estimate)
+1,C24010Ae9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Female: Management, business, science, and arts occupations: Civilian employed White alone population 16 years and over -- (Estimate)"
+1,C24010Ae10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Female: Service occupations: Civilian employed White alone population 16 years and over -- (Estimate)
+1,C24010Ae11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Female: Sales and office occupations: Civilian employed White alone population 16 years and over -- (Estimate)
+1,C24010Ae12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Female: Natural resources, construction, and maintenance occupations: Civilian employed White alone population 16 years and over -- (Estimate)"
+1,C24010Ae13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE): Female: Production, transportation, and material moving occupations: Civilian employed White alone population 16 years and over -- (Estimate)"
+1,C24010Be1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Total: Civilian employed Black or African American alone population 16 years and over -- (Estimate)
+1,C24010Be2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Civilian employed Black or African American alone population 16 years and over -- (Estimate)
+1,C24010Be3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Management, business, science, and arts occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)"
+1,C24010Be4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Service occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)
+1,C24010Be5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Sales and office occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)
+1,C24010Be6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Natural resources, construction, and maintenance occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)"
+1,C24010Be7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Male: Production, transportation, and material moving occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)"
+1,C24010Be8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Civilian employed Black or African American alone population 16 years and over -- (Estimate)
+1,C24010Be9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Management, business, science, and arts occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)"
+1,C24010Be10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Service occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)
+1,C24010Be11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Sales and office occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)
+1,C24010Be12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Natural resources, construction, and maintenance occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)"
+1,C24010Be13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (BLACK OR AFRICAN AMERICAN ALONE): Female: Production, transportation, and material moving occupations: Civilian employed Black or African American alone population 16 years and over -- (Estimate)"
+1,C24010Ce1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Total: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)
+1,C24010Ce2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Male: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)
+1,C24010Ce3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Male: Management, business, science, and arts occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)"
+1,C24010Ce4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Male: Service occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)
+1,C24010Ce5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Male: Sales and office occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)
+1,C24010Ce6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Male: Natural resources, construction, and maintenance occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)"
+1,C24010Ce7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Male: Production, transportation, and material moving occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)"
+1,C24010Ce8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Female: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)
+1,C24010Ce9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Female: Management, business, science, and arts occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)"
+1,C24010Ce10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Female: Service occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)
+1,C24010Ce11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Female: Sales and office occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)
+1,C24010Ce12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Female: Natural resources, construction, and maintenance occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)"
+1,C24010Ce13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (AMERICAN INDIAN AND ALASKA NATIVE ALONE): Female: Production, transportation, and material moving occupations: Civilian employed American Indian and Alaska Native alone population 16 years and over -- (Estimate)"
+1,C24010De1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Total: Civilian employed Asian alone population 16 years and over -- (Estimate)
+1,C24010De2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Male: Civilian employed Asian alone population 16 years and over -- (Estimate)
+1,C24010De3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Male: Management, business, science, and arts occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)"
+1,C24010De4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Male: Service occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)
+1,C24010De5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Male: Sales and office occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)
+1,C24010De6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Male: Natural resources, construction, and maintenance occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)"
+1,C24010De7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Male: Production, transportation, and material moving occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)"
+1,C24010De8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Female: Civilian employed Asian alone population 16 years and over -- (Estimate)
+1,C24010De9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Female: Management, business, science, and arts occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)"
+1,C24010De10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Female: Service occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)
+1,C24010De11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Female: Sales and office occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)
+1,C24010De12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Female: Natural resources, construction, and maintenance occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)"
+1,C24010De13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (ASIAN ALONE): Female: Production, transportation, and material moving occupations: Civilian employed Asian alone population 16 years and over -- (Estimate)"
+1,C24010Ee1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Total: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)
+1,C24010Ee2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Male: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)
+1,C24010Ee3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Male: Management, business, science, and arts occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)"
+1,C24010Ee4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Male: Service occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)
+1,C24010Ee5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Male: Sales and office occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)
+1,C24010Ee6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Male: Natural resources, construction, and maintenance occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)"
+1,C24010Ee7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Male: Production, transportation, and material moving occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)"
+1,C24010Ee8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Female: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)
+1,C24010Ee9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Female: Management, business, science, and arts occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)"
+1,C24010Ee10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Female: Service occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)
+1,C24010Ee11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Female: Sales and office occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)
+1,C24010Ee12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Female: Natural resources, construction, and maintenance occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)"
+1,C24010Ee13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE): Female: Production, transportation, and material moving occupations: Civilian employed Native Hawaiian and Other Pacific Islander alone population 16 years and over -- (Estimate)"
+1,C24010Fe1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Total: Civilian employed Some other race alone population 16 years and over -- (Estimate)
+1,C24010Fe2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Male: Civilian employed Some other race alone population 16 years and over -- (Estimate)
+1,C24010Fe3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Male: Management, business, science, and arts occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)"
+1,C24010Fe4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Male: Service occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)
+1,C24010Fe5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Male: Sales and office occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)
+1,C24010Fe6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Male: Natural resources, construction, and maintenance occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)"
+1,C24010Fe7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Male: Production, transportation, and material moving occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)"
+1,C24010Fe8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Female: Civilian employed Some other race alone population 16 years and over -- (Estimate)
+1,C24010Fe9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Female: Management, business, science, and arts occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)"
+1,C24010Fe10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Female: Service occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)
+1,C24010Fe11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Female: Sales and office occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)
+1,C24010Fe12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Female: Natural resources, construction, and maintenance occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)"
+1,C24010Fe13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (SOME OTHER RACE ALONE): Female: Production, transportation, and material moving occupations: Civilian employed Some other race alone population 16 years and over -- (Estimate)"
+1,C24010Ge1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Total: Civilian employed Two or more races population 16 years and over -- (Estimate)
+1,C24010Ge2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Male: Civilian employed Two or more races population 16 years and over -- (Estimate)
+1,C24010Ge3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Male: Management, business, science, and arts occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)"
+1,C24010Ge4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Male: Service occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)
+1,C24010Ge5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Male: Sales and office occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)
+1,C24010Ge6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Male: Natural resources, construction, and maintenance occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)"
+1,C24010Ge7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Male: Production, transportation, and material moving occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)"
+1,C24010Ge8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Female: Civilian employed Two or more races population 16 years and over -- (Estimate)
+1,C24010Ge9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Female: Management, business, science, and arts occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)"
+1,C24010Ge10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Female: Service occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)
+1,C24010Ge11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Female: Sales and office occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)
+1,C24010Ge12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Female: Natural resources, construction, and maintenance occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)"
+1,C24010Ge13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (TWO OR MORE RACES): Female: Production, transportation, and material moving occupations: Civilian employed Two or more races population 16 years and over -- (Estimate)"
+1,C24010He1,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Total: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He2,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Management, business, science, and arts occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He4,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Service occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He5,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Sales and office occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Natural resources, construction, and maintenance occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Male: Production, transportation, and material moving occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He8,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Management, business, science, and arts occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He10,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Service occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He11,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Sales and office occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Natural resources, construction, and maintenance occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010He13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (WHITE ALONE, NOT HISPANIC OR LATINO): Female: Production, transportation, and material moving occupations: Civilian employed White alone, not Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010Ie1,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Total: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)
+1,C24010Ie2,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Male: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)
+1,C24010Ie3,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Male: Management, business, science, and arts occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010Ie4,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Male: Service occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)
+1,C24010Ie5,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Male: Sales and office occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)
+1,C24010Ie6,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Male: Natural resources, construction, and maintenance occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010Ie7,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Male: Production, transportation, and material moving occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010Ie8,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Female: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)
+1,C24010Ie9,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Female: Management, business, science, and arts occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010Ie10,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Female: Service occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)
+1,C24010Ie11,SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Female: Sales and office occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)
+1,C24010Ie12,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Female: Natural resources, construction, and maintenance occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)"
+1,C24010Ie13,"SEX BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER (HISPANIC OR LATINO): Female: Production, transportation, and material moving occupations: Civilian employed Hispanic or Latino population 16 years and over -- (Estimate)"
+1,B25003e1,TENURE: Total: Occupied housing units -- (Estimate)
+1,B25003e2,TENURE: Total: Owner occupied: Occupied housing units -- (Estimate)
+1,B25003e3,TENURE: Total: Renter occupied: Occupied housing units -- (Estimate)
+1,B25003Ae1,TENURE (WHITE ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25003Ae2,TENURE (WHITE ALONE HOUSEHOLDER): Total: Owner occupied: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25003Ae3,TENURE (WHITE ALONE HOUSEHOLDER): Total: Renter occupied: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25003Be1,TENURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25003Be2,TENURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Owner occupied: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25003Be3,TENURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Renter occupied: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25003He1,"TENURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25003He2,"TENURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Owner occupied: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25003He3,"TENURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Renter occupied: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25003Ie1,TENURE (HISPANIC OR LATINO HOUSEHOLDER): Total: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25003Ie2,TENURE (HISPANIC OR LATINO HOUSEHOLDER): Total: Owner occupied: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25003Ie3,TENURE (HISPANIC OR LATINO HOUSEHOLDER): Total: Renter occupied: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25014Ae1,OCCUPANTS PER ROOM (WHITE ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25014Ae2,OCCUPANTS PER ROOM (WHITE ALONE HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25014Ae3,OCCUPANTS PER ROOM (WHITE ALONE HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25014Be1,OCCUPANTS PER ROOM (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25014Be2,OCCUPANTS PER ROOM (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25014Be3,OCCUPANTS PER ROOM (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25014Ce1,OCCUPANTS PER ROOM (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is American Indian and Alaska Native alone -- (Estimate)
+1,B25014Ce2,OCCUPANTS PER ROOM (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is American Indian and Alaska Native alone -- (Estimate)
+1,B25014Ce3,OCCUPANTS PER ROOM (AMERICAN INDIAN AND ALASKA NATIVE ALONE HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is American Indian and Alaska Native alone -- (Estimate)
+1,B25014De1,OCCUPANTS PER ROOM (ASIAN ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is Asian alone -- (Estimate)
+1,B25014De2,OCCUPANTS PER ROOM (ASIAN ALONE HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is Asian alone -- (Estimate)
+1,B25014De3,OCCUPANTS PER ROOM (ASIAN ALONE HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is Asian alone -- (Estimate)
+1,B25014Ee1,OCCUPANTS PER ROOM (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone -- (Estimate)
+1,B25014Ee2,OCCUPANTS PER ROOM (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone -- (Estimate)
+1,B25014Ee3,OCCUPANTS PER ROOM (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is Native Hawaiian and Other Pacific Islander alone -- (Estimate)
+1,B25014Fe1,OCCUPANTS PER ROOM (SOME OTHER RACE ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is Some other race alone -- (Estimate)
+1,B25014Fe2,OCCUPANTS PER ROOM (SOME OTHER RACE ALONE HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is Some other race alone -- (Estimate)
+1,B25014Fe3,OCCUPANTS PER ROOM (SOME OTHER RACE ALONE HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is Some other race alone -- (Estimate)
+1,B25014Ge1,OCCUPANTS PER ROOM (TWO OR MORE RACES HOUSEHOLDER): Total: Occupied housing units with a householder who is Two or more races -- (Estimate)
+1,B25014Ge2,OCCUPANTS PER ROOM (TWO OR MORE RACES HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is Two or more races -- (Estimate)
+1,B25014Ge3,OCCUPANTS PER ROOM (TWO OR MORE RACES HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is Two or more races -- (Estimate)
+1,B25014He1,"OCCUPANTS PER ROOM (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25014He2,"OCCUPANTS PER ROOM (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25014He3,"OCCUPANTS PER ROOM (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25014Ie1,OCCUPANTS PER ROOM (HISPANIC OR LATINO HOUSEHOLDER): Total: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25014Ie2,OCCUPANTS PER ROOM (HISPANIC OR LATINO HOUSEHOLDER): Total: 1.00 or less occupants per room: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25014Ie3,OCCUPANTS PER ROOM (HISPANIC OR LATINO HOUSEHOLDER): Total: 1.01 or more occupants per room: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032e1,TENURE BY UNITS IN STRUCTURE: Total: Occupied housing units -- (Estimate)
+1,B25032e2,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: Occupied housing units -- (Estimate)
+1,B25032e3,"TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 1, detached: Occupied housing units -- (Estimate)"
+1,B25032e4,"TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 1, attached: Occupied housing units -- (Estimate)"
+1,B25032e5,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 2: Occupied housing units -- (Estimate)
+1,B25032e6,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 3 or 4: Occupied housing units -- (Estimate)
+1,B25032e7,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 5 to 9: Occupied housing units -- (Estimate)
+1,B25032e8,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 10 to 19: Occupied housing units -- (Estimate)
+1,B25032e9,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 20 to 49: Occupied housing units -- (Estimate)
+1,B25032e10,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: 50 or more: Occupied housing units -- (Estimate)
+1,B25032e11,TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: Mobile home: Occupied housing units -- (Estimate)
+1,B25032e12,"TENURE BY UNITS IN STRUCTURE: Owner-occupied housing units: Boat, RV, van, etc.: Occupied housing units -- (Estimate)"
+1,B25032e13,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: Occupied housing units -- (Estimate)
+1,B25032e14,"TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 1, detached: Occupied housing units -- (Estimate)"
+1,B25032e15,"TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 1, attached: Occupied housing units -- (Estimate)"
+1,B25032e16,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 2: Occupied housing units -- (Estimate)
+1,B25032e17,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 3 or 4: Occupied housing units -- (Estimate)
+1,B25032e18,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 5 to 9: Occupied housing units -- (Estimate)
+1,B25032e19,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 10 to 19: Occupied housing units -- (Estimate)
+1,B25032e20,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 20 to 49: Occupied housing units -- (Estimate)
+1,B25032e21,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: 50 or more: Occupied housing units -- (Estimate)
+1,B25032e22,TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: Mobile home: Occupied housing units -- (Estimate)
+1,B25032e23,"TENURE BY UNITS IN STRUCTURE: Renter-occupied housing units: Boat, RV, van, etc.: Occupied housing units -- (Estimate)"
+1,B25032Ae1,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae2,"UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 1, detached: Occupied housing units with a householder who is White alone -- (Estimate)"
+1,B25032Ae3,"UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 1, attached: Occupied housing units with a householder who is White alone -- (Estimate)"
+1,B25032Ae4,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 2: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae5,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 3 or 4: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae6,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 5 to 9: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae7,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 10 to 19: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae8,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 20 to 49: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae9,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: 50 or more: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae10,UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: Mobile home: Occupied housing units with a householder who is White alone -- (Estimate)
+1,B25032Ae11,"UNITS IN STRUCTURE (WHITE ALONE HOUSEHOLDER): Total: Boat, RV, van, etc.: Occupied housing units with a householder who is White alone -- (Estimate)"
+1,B25032Be1,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be2,"UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 1, detached: Occupied housing units with a householder who is Black or African American alone -- (Estimate)"
+1,B25032Be3,"UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 1, attached: Occupied housing units with a householder who is Black or African American alone -- (Estimate)"
+1,B25032Be4,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 2: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be5,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 3 or 4: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be6,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 5 to 9: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be7,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 10 to 19: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be8,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 20 to 49: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be9,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: 50 or more: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be10,UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Mobile home: Occupied housing units with a householder who is Black or African American alone -- (Estimate)
+1,B25032Be11,"UNITS IN STRUCTURE (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER): Total: Boat, RV, van, etc.: Occupied housing units with a householder who is Black or African American alone -- (Estimate)"
+1,B25032He1,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He2,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 1, detached: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He3,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 1, attached: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He4,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 2: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He5,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 3 or 4: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He6,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 5 to 9: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He7,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 10 to 19: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He8,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 20 to 49: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He9,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: 50 or more: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He10,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Mobile home: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032He11,"UNITS IN STRUCTURE (WHITE ALONE, NOT HISPANIC OR LATINO HOUSEHOLDER): Total: Boat, RV, van, etc.: Occupied housing units with a householder who is White alone, not Hispanic or Latino -- (Estimate)"
+1,B25032Ie1,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie2,"UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 1, detached: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)"
+1,B25032Ie3,"UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 1, attached: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)"
+1,B25032Ie4,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 2: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie5,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 3 or 4: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie6,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 5 to 9: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie7,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 10 to 19: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie8,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 20 to 49: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie9,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: 50 or more: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie10,UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: Mobile home: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)
+1,B25032Ie11,"UNITS IN STRUCTURE (HISPANIC OR LATINO HOUSEHOLDER): Total: Boat, RV, van, etc.: Occupied housing units with a householder who is Hispanic or Latino -- (Estimate)"
